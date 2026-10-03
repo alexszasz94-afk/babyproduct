@@ -29,3 +29,9 @@ Mecanica: **„pare o jucărie → de fapt e un bebeluș”** (reveal în 3 trep
 - poze clare ale produsului (față, spate, glugă, detaliu material) pentru referințe;
 - ce culori/variante are (doar roz? și verde/albastru?), mărimi, preț, link magazin;
 - dacă vrem bebeluș real sau doar personaje generate (regulile pentru copii în AI trebuie stabilite).
+
+## Colecția de Crăciun „cadou în spate” (3 oct 2026)
+Costume: Ren cu cadou, Turtă dulce cu cadou, Monstruleț verde cu cadou (personaj original, nu Grinch).
+Referințe finale: `output/refs-v2/` (5 unghiuri / costum), prompturi în `prompts/refs-v2/`.
+
+**Regula glugii (aceeași la toate):** gluga = capul personajului, umplut 3D. În față o singură deschidere ovală pentru fața bebelușului, căptușită cu sherpa crem. Fața personajului (ochi, nas/bot) e pe FRUNTE, deasupra deschiderii, orientată în față — fața bebelușului devine „gura” personajului (ca la țestoasă). Ceafa e simplă, fără față. Urechi/coarne/căciulă sus și lateral. Fața, fermoarul și burta în față; cadoul mereu în spate.
