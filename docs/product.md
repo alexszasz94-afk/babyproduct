@@ -32,13 +32,13 @@ Mecanica: **„pare o jucărie → de fapt e un bebeluș”** (reveal în 3 trep
 
 ## Colecția de Crăciun „cadou în spate” (3 oct 2026)
 Costume: Ren cu cadou, Turtă dulce cu cadou, Monstruleț verde cu cadou (personaj original, nu Grinch).
-**Monstrulețul (decizia finală a lui Szasz, 3 oct):** designul din `output/refs-v2/monstrulet-1-fata.png` (blană verde, burtă verde-deschis, bordură albă pufoasă în jurul feței, ochi încruntați pe frunte, urechiușe rotunde) DAR fără căciulă de Moș: în creștet are un MOȚ mare de blană verde lățoasă. Coada doar la spate, cadou roșu cu fundă aurie. Referințe finale: `output/refs-v5-mot/`. Variantele `refs-v3-verde` și `refs-v4-shaggy` au fost respinse.
+**Monstrulețul — DECIZIE FINALĂ (Szasz, 3 oct):** CU CĂCIULĂ DE MOȘ peste tot (bebeluși și animale). Design: blană verde lățoasă, burtă verde-deschis, bordură albă pufoasă în jurul feței, ochi încruntați pe frunte, urechiușe rotunde, căciulă de Moș roșie cu pompon alb cusută pe glugă, coada doar la spate, cadou roșu cu fundă aurie. Referințe finale: `output/refs-v2/monstrulet-*` (5 unghiuri). Variantele cu moț (`refs-v5-mot`), „tot verde” (`refs-v3-verde`) și „shaggy” (`refs-v4-shaggy`) sunt RESPINSE.
 Referințe finale: `output/refs-v2/` (5 unghiuri / costum), prompturi în `prompts/refs-v2/`.
 
 **Regula glugii (aceeași la toate):** gluga = capul personajului, umplut 3D. În față o singură deschidere ovală pentru fața bebelușului, căptușită cu sherpa crem. Fața personajului (ochi, nas/bot) e pe FRUNTE, deasupra deschiderii, orientată în față — fața bebelușului devine „gura” personajului (ca la țestoasă). Ceafa e simplă, fără față. Urechi/coarne/căciulă sus și lateral. Fața, fermoarul și burta în față; cadoul mereu în spate.
 
 ## Varianta pentru animale (3 oct 2026)
-Aceleași 3 costume pentru câini (teckel) și pisici (British Shorthair). Reguli: mânecuțe scurte, lăbuțele LIBERE; pluș extra gros și pufos; gluga cu aceeași regulă (fața animalului prin deschidere, ochii personajului pe frunte); cadoul pe spate. La animale monstrulețul păstrează CĂCIULA DE MOȘ. Turta dulce: doar 2 ochi pe glugă, fără obraji. Stil foto: cozy, seara, pătură tricotată crem, lampă caldă, brad. Referințe: `output/pets-v3-cozy/`.
+Aceleași 3 costume pentru câini (teckel) și pisici (British Shorthair). Reguli: mânecuțe scurte, lăbuțele LIBERE; pluș extra gros și pufos; gluga cu aceeași regulă (fața animalului prin deschidere, ochii personajului pe frunte); cadoul pe spate. Monstrulețul are CĂCIULA DE MOȘ. Turta dulce: doar 2 ochi pe glugă, fără obraji. Stil foto: cozy, seara, pătură tricotată crem, lampă caldă, brad. Referințe: `output/pets-v3-cozy/`.
 
 ## Stil „cât mai cute pentru mame” (3 oct 2026, cerut de Szasz)
-Bebeluși rotofei 9–11 luni, obrăjori, ochi mari, râzând / întinzând mânuța / bosumflat amuzant; pui de animale (pisicuță British Shorthair, cățeluș teckel) cu ochi mari, privind în sus. Seara, lampă caldă, brad, pătură tricotată crem. Monstrulețul păstrează căciulița de Moș și la bebeluși. Referințe: `output/cute/`.
+Bebeluși rotofei 9–11 luni, obrăjori, ochi mari, râzând / întinzând mânuța / bosumflat amuzant; pui de animale (pisicuță British Shorthair, cățeluș teckel) cu ochi mari, privind în sus. Seara, lampă caldă, brad, pătură tricotată crem. Monstrulețul are căciulița de Moș. Referințe: `output/cute/`.
