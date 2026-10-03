@@ -36,3 +36,6 @@ Costume: Ren cu cadou, Turtă dulce cu cadou, Monstruleț verde cu cadou (person
 Referințe finale: `output/refs-v2/` (5 unghiuri / costum), prompturi în `prompts/refs-v2/`.
 
 **Regula glugii (aceeași la toate):** gluga = capul personajului, umplut 3D. În față o singură deschidere ovală pentru fața bebelușului, căptușită cu sherpa crem. Fața personajului (ochi, nas/bot) e pe FRUNTE, deasupra deschiderii, orientată în față — fața bebelușului devine „gura” personajului (ca la țestoasă). Ceafa e simplă, fără față. Urechi/coarne/căciulă sus și lateral. Fața, fermoarul și burta în față; cadoul mereu în spate.
+
+## Varianta pentru animale (3 oct 2026)
+Aceleași 3 costume pentru câini (teckel) și pisici (British Shorthair). Reguli: mânecuțe scurte, lăbuțele LIBERE; pluș extra gros și pufos; gluga cu aceeași regulă (fața animalului prin deschidere, ochii personajului pe frunte); cadoul pe spate. La animale monstrulețul păstrează CĂCIULA DE MOȘ. Turta dulce: doar 2 ochi pe glugă, fără obraji. Stil foto: cozy, seara, pătură tricotată crem, lampă caldă, brad. Referințe: `output/pets-v3-cozy/`.
