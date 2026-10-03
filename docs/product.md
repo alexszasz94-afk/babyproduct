@@ -32,7 +32,7 @@ Mecanica: **„pare o jucărie → de fapt e un bebeluș”** (reveal în 3 trep
 
 ## Colecția de Crăciun „cadou în spate” (3 oct 2026)
 Costume: Ren cu cadou, Turtă dulce cu cadou, Monstruleț verde cu cadou (personaj original, nu Grinch).
-**Monstrulețul (decizia lui Szasz, 3 oct):** TOT verde, blană lățoasă pufoasă, FĂRĂ căciulă de Moș și fără alb/roșu pe corp; gluga = cap verde cu urechiușe și ochi „șmecheri” pe jumătate închiși; coada doar la spate; singurul element ne-verde e cadoul roșu cu fundă aurie. Referințe: `output/refs-v3-verde/`.
+**Monstrulețul (decizia finală a lui Szasz, 3 oct):** designul din `output/refs-v2/monstrulet-1-fata.png` (blană verde, burtă verde-deschis, bordură albă pufoasă în jurul feței, ochi încruntați pe frunte, urechiușe rotunde) DAR fără căciulă de Moș: în creștet are un MOȚ mare de blană verde lățoasă. Coada doar la spate, cadou roșu cu fundă aurie. Referințe finale: `output/refs-v5-mot/`. Variantele `refs-v3-verde` și `refs-v4-shaggy` au fost respinse.
 Referințe finale: `output/refs-v2/` (5 unghiuri / costum), prompturi în `prompts/refs-v2/`.
 
 **Regula glugii (aceeași la toate):** gluga = capul personajului, umplut 3D. În față o singură deschidere ovală pentru fața bebelușului, căptușită cu sherpa crem. Fața personajului (ochi, nas/bot) e pe FRUNTE, deasupra deschiderii, orientată în față — fața bebelușului devine „gura” personajului (ca la țestoasă). Ceafa e simplă, fără față. Urechi/coarne/căciulă sus și lateral. Fața, fermoarul și burta în față; cadoul mereu în spate.
