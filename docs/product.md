@@ -39,3 +39,6 @@ Referințe finale: `output/refs-v2/` (5 unghiuri / costum), prompturi în `promp
 
 ## Varianta pentru animale (3 oct 2026)
 Aceleași 3 costume pentru câini (teckel) și pisici (British Shorthair). Reguli: mânecuțe scurte, lăbuțele LIBERE; pluș extra gros și pufos; gluga cu aceeași regulă (fața animalului prin deschidere, ochii personajului pe frunte); cadoul pe spate. La animale monstrulețul păstrează CĂCIULA DE MOȘ. Turta dulce: doar 2 ochi pe glugă, fără obraji. Stil foto: cozy, seara, pătură tricotată crem, lampă caldă, brad. Referințe: `output/pets-v3-cozy/`.
+
+## Stil „cât mai cute pentru mame” (3 oct 2026, cerut de Szasz)
+Bebeluși rotofei 9–11 luni, obrăjori, ochi mari, râzând / întinzând mânuța / bosumflat amuzant; pui de animale (pisicuță British Shorthair, cățeluș teckel) cu ochi mari, privind în sus. Seara, lampă caldă, brad, pătură tricotată crem. Monstrulețul păstrează căciulița de Moș și la bebeluși. Referințe: `output/cute/`.
