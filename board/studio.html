@@ -103,7 +103,7 @@ textarea{font:14px/1.4 var(--body);width:100%;box-sizing:border-box;min-height:5
 <div class="toast" id="toast" hidden></div>
 
 <script>
-const ORDER=["REF","START","FINAL","HOOK","SCENA1","SCENA2","SCENA3","TEXT"];
+const ORDER=["REF","B1","B2","B3","START","FINAL","HOOK","SCENA1","SCENA2","SCENA3","TEXT"];
 const LABEL={gata:"gata",aprobat:"aprobat",refa:"de refăcut",lucru:"se generează",ales:"hook ales"};
 let clips=[],feedback=[],maps={},db=null,canWrite=true;
 const $=s=>document.querySelector(s);
@@ -146,7 +146,7 @@ function render(){
     const info=cs.find(c=>c.reelInfo)?.reelInfo||"";
     const ok=cs.filter(c=>c.status==="aprobat"||c.status==="ales").length;
     const m=maps["r"+r];
-    return `<section class="reel"><div class="reel-head"><h2>${r===0?"Referințe produs":"Reel "+r}</h2><span class="meta">${esc(info)}</span><span class="meta">${ok}/${cs.length} aprobate</span></div>${m?mapHtml(r,m):""}<div class="row">${cs.map(card).join("")}</div></section>`;
+    return `<section class="reel"><div class="reel-head"><h2>${esc(cs.find(c=>c.reelTitle)?.reelTitle||(r===0?"Referințe produs":"Reel "+r))}</h2><span class="meta">${esc(info)}</span><span class="meta">${ok}/${cs.length} aprobate</span></div>${m?mapHtml(r,m):""}<div class="row">${cs.map(card).join("")}</div></section>`;
   }).join("");
   document.querySelectorAll(".map").forEach(drawLinks);
 }
