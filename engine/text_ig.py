@@ -33,8 +33,15 @@ def apple_emoji(seq):
             return Image.open(fp).convert("RGBA")
     return None
 
-def render(text, out, y=200):
-    f = ImageFont.truetype(FONT, SIZE); ef = ImageFont.truetype(EMOJI, 109)
+def render(text, out, y=200, size=None):
+    global SIZE
+    SIZE = size or SIZE
+    f = ImageFont.truetype(FONT, SIZE)
+    # micșorează automat dacă un rând nu încape (margine 60 px pe fiecare parte)
+    lat = max(sum(SIZE * 1.08 if k == "e" else f.getlength(v) for k, v in layout(l, f)) for l in text.split("\\n"))
+    if lat > W - 120 and SIZE > 40:
+        return render(text, out, y, SIZE - 2)
+    ef = ImageFont.truetype(EMOJI, 109)
     txt = Image.new("RGBA", (W, H), (0, 0, 0, 0)); emo = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(txt)
     for i, line in enumerate(text.split("\\n")):
