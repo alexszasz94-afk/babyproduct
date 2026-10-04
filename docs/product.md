@@ -42,3 +42,5 @@ Aceleași 3 costume pentru câini (teckel) și pisici (British Shorthair). Regul
 
 ## Stil „cât mai cute pentru mame” (3 oct 2026, cerut de Szasz)
 Bebeluși rotofei 9–11 luni, obrăjori, ochi mari, râzând / întinzând mânuța / bosumflat amuzant; pui de animale (pisicuță British Shorthair, cățeluș teckel) cu ochi mari, privind în sus. Seara, lampă caldă, brad, pătură tricotată crem. Monstrulețul are căciulița de Moș. Referințe: `output/cute/`.
+
+**Textura costumului (Szasz, 4 oct):** cât mai cozy și pufos — blană teddy/sherpa groasă, cu fir lung, umplutură ca la o salopetă de puf, siluetă plinuță, margini moi care prind lumina; bordura feței ca lâna de miel. Promptul de „pufoșare” peste o imagine bună: `prompts/broll/fluffy-edit.txt`.
