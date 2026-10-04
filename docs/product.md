@@ -52,3 +52,4 @@ Bebeluși rotofei 9–11 luni, obrăjori, ochi mari, râzând / întinzând mân
 - Hook-ul cu piciorul: costumul e ÎMPĂTURIT (ca o jucărie compactă cu cadoul deasupra), apoi se desface.
 - Emoji-urile din text sunt mereu de iPhone (`engine/text_ig.py` folosește `assets/emoji-apple`).
 - Emoji-urile se aleg după produsul nostru (🎁🎄💚😱🥺 etc.), niciodată 🐢 sau alte emoji ale concurenței (Szasz, 4 oct).
+- B-roll-urile (B1 pat, B2 merge, B3 râde) rămân aceleași aproape mereu; la fiecare video nou se schimbă doar hook-ul, camera și bebelușul din hook (Szasz, 4 oct).
