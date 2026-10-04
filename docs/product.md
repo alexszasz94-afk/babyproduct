@@ -44,3 +44,10 @@ Aceleași 3 costume pentru câini (teckel) și pisici (British Shorthair). Regul
 Bebeluși rotofei 9–11 luni, obrăjori, ochi mari, râzând / întinzând mânuța / bosumflat amuzant; pui de animale (pisicuță British Shorthair, cățeluș teckel) cu ochi mari, privind în sus. Seara, lampă caldă, brad, pătură tricotată crem. Monstrulețul are căciulița de Moș. Referințe: `output/cute/`.
 
 **Textura costumului (Szasz, 4 oct):** cât mai cozy și pufos — blană teddy/sherpa groasă, cu fir lung, umplutură ca la o salopetă de puf, siluetă plinuță, margini moi care prind lumina; bordura feței ca lâna de miel. Promptul de „pufoșare” peste o imagine bună: `prompts/broll/fluffy-edit.txt`.
+
+**Reguli video (Szasz, 4 oct):**
+- Structura: hook (se rotește) → B1 → B2 → B3. B-roll-urile se refolosesc între videouri; se schimbă hook-ul, camera, ambientul.
+- B3 = mereu ca `output/broll-video/b3-ras-005.mp4`: prim-plan, pat alb luminos, bebe râde în glugă, o mână îl ciupește de obraz (se taie înainte să-i acopere gluga fața).
+- B1 = acțiune imediat, fără să stea mult nemișcat la început.
+- Hook-ul cu piciorul: costumul e ÎMPĂTURIT (ca o jucărie compactă cu cadoul deasupra), apoi se desface.
+- Emoji-urile din text sunt mereu de iPhone (`engine/text_ig.py` folosește `assets/emoji-apple`).
