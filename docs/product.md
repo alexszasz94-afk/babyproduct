@@ -54,3 +54,9 @@ Bebeluși rotofei 9–11 luni, obrăjori, ochi mari, râzând / întinzând mân
 - Emoji-urile se aleg după produsul nostru (🎁🎄💚😱🥺 etc.), niciodată 🐢 sau alte emoji ale concurenței (Szasz, 4 oct).
 - B-roll-urile (B1 pat, B2 merge, B3 râde) rămân aceleași aproape mereu; la fiecare video nou se schimbă doar hook-ul, camera și bebelușul din hook (Szasz, 4 oct).
 - Muzica: „Santa Baby” (Eartha Kitt, fișierul dat de Szasz în `assets/music/santa-baby.mp3`) peste toate videourile, de la 12,6 s (primul „Santa baby...”); sunetul generat rămâne încet dedesubt (30%). Script: `engine/muzica.sh` (4 oct).
+
+**Realism (Szasz, 6 oct) — de ce par ale lor mai reale și ce facem:**
+- Măsurat: ale lor au saturație ~20–30 (noi ~40), sunt mai puțin calde (R-B 19–37 vs. 45–52) și mai luminoase (125–148 vs. 115–121). Scene obișnuite, lumină de zi, cadru strâmb din mână, produs care arată ca o haină reală.
+- Toate cadrele noi folosesc blocul `prompts/blocks/realism-ugc.txt` (casă obișnuită, fără luminițe/bokeh, lumină de zi neutră, culori mate, fleece sage-green cu cusături și scame, cadou din material mat).
+- HOOK = MEREU Genjutsu (`hf_mult_motion_control`) cu clipul lor de hook ca mișcare + cadrele noastre (start + final) + referințele costumului; promptul insistă că produsul se ÎNLOCUIEȘTE complet (zero elemente de țestoasă).
+- Un singur video odată, până iese bine.
